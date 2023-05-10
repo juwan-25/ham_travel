@@ -1,9 +1,11 @@
 # ham_travel
 ### JAVA GUI를 활용한 햄스터 슈팅 게임
 jPannel을 이용한 화면 구현과 DB 개발을 하였습니다. <br>
-픽셀을 통해 직접 디자인 요소를 제작하였습니다. <br>
+픽셀을 통해 직접 디자인 요소를 제작하였습니다. <br><br>
 
-
+![ezgif com-gif-to-mp4 (1)](https://github.com/juwan-25/hellogit/assets/83991017/d7903e78-1468-44f6-9d26-46741f420e43)
+<br>
+실제 게임화면입니다.<br><br>
 
 #### 기능 구현 코드 설명
 <details>
